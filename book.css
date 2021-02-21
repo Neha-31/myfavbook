@@ -1,0 +1,55 @@
+.header {
+    text-align: center;
+    color: rgb(56, 4, 45);
+    mix-blend-mode:lighten;
+    border-color: inherit;
+    font-weight: 1000;
+    margin-top: 20px;
+    font-size: 300%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.body {
+    background-image: url('book.jpg');
+    background-size: cover;
+    position: absolute;
+    background-position: center;
+    z-index: 1;
+    text-align: center;
+    color:lightsteelblue;
+
+}
+
+.image {
+    
+    margin-top: 60px;
+    margin-left:40px;
+    border-radius:30px;
+    height: 300px;
+    width: 300px;
+    float:left;
+}
+
+.para {
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size:27px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.paraa {
+    font-family:Comic Sans MS;
+	font-size:20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:right;
+}
+.link{
+    font-family:fantasy;
+}
+.footer {
+    margin-top: 40px;
+    margin-right: 20px;
+    color:whitesmoke;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+}
